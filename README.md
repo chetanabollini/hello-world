@@ -1,4 +1,3 @@
 # hello-world
 start
-hello 
-h r u
+hello n i deleted h r u
